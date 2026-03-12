@@ -1,0 +1,5 @@
+{
+  "name": "빅테크 투자 추적기",
+  "description": "미국 빅테크 기업(Nvidia, Google, Meta 등)의 최신 투자 및 M&A 소식을 추적하고 분석하여 하이라이트를 제공합니다.",
+  "requestFramePermissions": []
+}
